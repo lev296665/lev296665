@@ -7,6 +7,7 @@
 ---
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=google-chrome&logoColor=white)](https://lev296665.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=lev296665@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-chauhan-1b636434b/)
 
