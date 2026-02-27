@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Lev 👋
 
-<!--
-**lev296665/lev296665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | Python Developer
+💻 Interested in AI, Automation, and Web Development
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+* Python 🐍
+* HTML, CSS, JavaScript
+* Git & GitHub
+* Flask (learning)
+* SQL
+
+---
+
+## 📌 Current Projects
+
+* AI Resume Analyzer (Python)
+* Portfolio Website
+* Automation Scripts
+
+---
+
+## 📊 GitHub Stats
+
+![Lev's GitHub stats](https://github-readme-stats.vercel.app/api?username=lev296665\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🌱 Currently Learning
+
+* Machine Learning
+* Flask / Django
+* APIs
+
+---
+
+## 📫 Contact
+
+* Email: [your-email@example.com](mailto:your-email@example.com)
